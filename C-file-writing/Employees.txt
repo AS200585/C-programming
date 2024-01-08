@@ -1,0 +1,7 @@
+This is an employees file.
+Jim, Salesman 
+Pam, Main Salesman 
+Andy, Assistant ManagerThis is an employees file.
+
+Nelson, Manager 
+Cindy, Cashier
